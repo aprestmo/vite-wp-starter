@@ -1,0 +1,38 @@
+{
+  "name": "vite-wp",
+  "private": "true",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alexander Prestmo",
+    "url": "https://alexanderprestmo.no"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@gl.divint.no:alex/vite-wp.git"
+  },
+  "scripts": {
+    "dev": "APP_ENV=development vite",
+    "build": "APP_ENV=production vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-legacy": "^1.8.2",
+    "autoprefixer": "^10.4.7",
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "postcss": "^8.4.13",
+    "postcss-import": "^14.1.0",
+    "postcss-nested": "^5.0.6",
+    "postcss-nested-ancestors": "^3.0.0",
+    "prettier": "^2.6.2",
+    "sass": "^1.51.0",
+    "stylelint": "^14.8.2",
+    "stylelint-config-sass-guidelines": "^9.0.1",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.8",
+    "vite-plugin-live-reload": "^2.1.0"
+  }
+}
