@@ -1,5 +1,5 @@
 {
-  "name": "vite-wp",
+  "name": "vite-wp-starter",
   "private": "true",
   "version": "1.0.0",
   "author": {
@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@gl.divint.no:alex/vite-wp.git"
+    "url": "git@github.com:aprestmo/vite-wp-starter.git"
   },
   "scripts": {
     "dev": "APP_ENV=development vite",

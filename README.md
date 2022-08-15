@@ -1,3 +1,3 @@
 # Vite Powered Setup
 
-WordPress theme starter with Vite
+WordPress theme starter using Vite 3
