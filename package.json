@@ -28,11 +28,9 @@
     "postcss-nested": "^5.0.6",
     "postcss-nested-ancestors": "^3.0.0",
     "prettier": "^2.6.2",
-    "prettier-plugin-tailwindcss": "^0.1.10",
     "sass": "^1.51.0",
     "stylelint": "^14.8.2",
     "stylelint-config-sass-guidelines": "^9.0.1",
-    "tailwindcss": "^3.0.24",
     "vite": "^3.0.7",
     "vite-plugin-live-reload": "^3.0.0"
   }
